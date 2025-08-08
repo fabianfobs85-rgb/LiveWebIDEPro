@@ -14,4 +14,5 @@ Added missing layout and button styles so the UI renders properly and is respons
 - Generate code: Now writes to the active editor (not the first model) via window.ide.editor.
 - UI: Added missing CSS and responsive layout so Monaco fills the space; implemented basic toggles and wired missing buttons.
 - GitHub: Switched Authorization header to Bearer; updates status when you connect a token without reloading
+
 Copy, paste, and run this as a single HTML file.
